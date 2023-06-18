@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me my email
+- 📫 How to reach me attaulhaq150@gmail.com
 
 <!---
 MaherAttaulhaq/MaherAttaulhaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
